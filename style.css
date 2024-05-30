@@ -62,11 +62,11 @@ body {
     cursor: pointer;
   }
   
-  .Sendbtn:hover {
+/*   .Sendbtn:hover {
     background-color: transparent;
     border: 1px solid white;
     color: white;
-  }
+  } */
   
   .Sendbtn:active {
     transform: scale(0.96);
